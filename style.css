@@ -1,0 +1,22 @@
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+h1{
+    font-family: Newsreader;
+    font-variant:small-caps;
+    color: olive;
+}
+body{
+    text-align: center;
+    background-color: darkolivegreen;
+}
+img{
+    text-align: center;
+    height:500px;
+    width:800px;
+    border:double;
+    border-width:10px;
+    border-color: black;
+}
